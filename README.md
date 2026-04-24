@@ -1,4 +1,5 @@
 # Are Two-High Safeties Ruining the NFL?
+Article: https://jisungl.github.io/Are-Two-High-Safeties-Ruining-Football/
 
 An interactive data visualization article analyzing whether the rise of two-high safety defenses is actually responsible for the decline in explosive passing plays in the NFL. Using defensive coverage data from every NFL play over a decade (2015–2024), the article argues that the real shift is not an increase in two-high coverages, but an increase in disguised coverages through post-snap safety rotations. Built with D3.js and JavaScript on ObservableHQ.
 
